@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">formLogin</string>
+    <string name="app_name">Discografia</string>
+    <string name="login">Login</string>
+    <string name="icon">ICON</string>
+    <string name="autofillLogin">Digite seu login</string>
+    <string name="autofillSenha">Digite sua senha</string>
+    <string name="senha">SENHA</string>
+    <string name="btnEnter">Entrar</string>
+    <string name="welcome">Bem vindo Playboy</string>
+    <string name="password">show password</string>
+    <string name="band">Escolha uma banda/artista</string>
+    <string name="logout">Sair</string>
+    <string name="next">CONTINUAR \u2192</string>
+    <string name="back">Voltar</string>
+    <string name="select">Selecione um artista</string>
 </resources>
