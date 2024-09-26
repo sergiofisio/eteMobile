@@ -132,7 +132,6 @@ public class LoginActivity extends AppCompatActivity {
                     }
 
                     if (albuns != null) {
-                        // Certifica-se de que a lista de capas de álbuns não está vazia
                         List<Integer> capasAlbuns = albuns.getCapasAlbuns();
                         if (capasAlbuns != null && !capasAlbuns.isEmpty()) {
                             Intent it = new Intent(LoginActivity.this, Artist.class);

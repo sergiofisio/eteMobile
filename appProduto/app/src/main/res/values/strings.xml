@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">produtos</string>
+    <string name="title">Cadastro de produtos</string>
+    <string name="nome">Nome do Produto</string>
+    <string name="descricao">Descrição do produto</string>
+    <string name="valor">Valor do produto</string>
+    <string name="btn">cadastrar</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
