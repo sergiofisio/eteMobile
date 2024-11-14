@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">projetoFinal</string>
+    <string name="title">Lista de contatos</string>
+    <string name="name">Nome</string>
+    <string name="formName">Nome</string>
+    <string name="title1">Adicionar Contato</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="add">ADICIONAR</string>
+    <string name="clean">LIMPAR</string>
+    <string name="back">VOLTAR</string>
+    <string name="titleUpdate">Atualizar/excluir contato</string>
+    <string name="update">ATUALIZAR</string>
+    <string name="delete">EXCLUIR</string>
+</resources>
